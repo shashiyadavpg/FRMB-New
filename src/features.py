@@ -12,13 +12,23 @@ class FeatureEngineer:
             'SVB': 2023,
             'SBNY': 2023,
             'FRC': 2023,
-            'RAD': 2023, # Bankruptcy filing
-            'AMC': 2025, # High distress placeholder
+            'RAD': 2023, # Bankruptcy
+            'AMC': 2023, # High distress placeholder - treated as distress event for modelling
+            'GME': 2021, # Squeeze/Distress period
             'RCOM.NS': 2019,
             'DHFL.NS': 2019,
-            'JPPOWER.NS': 2016, # Restructuring
-            'IDEA.NS': 2024, # High distress
+            'JPPOWER.NS': 2016,
+            'IDEA.NS': 2023, # Significant distress refinancing
             'RPOWER.NS': 2020,
+            'SUZLON.NS': 2012, # Old default, maybe not in data? Let's try 2022 restructuring
+            'IBULHSGFIN.NS': 2019, # Credit event
+            'YESBANK.NS': 2020, # Reconstruction
+            'CVNA': 2022, # Distress
+            'PTON': 2023, # Distress
+            'WE': 2023, # WeWork
+            'EGRNF': 2021, # Evergrande
+            'SILVR': 2023, # Silvergate
+            'CS': 2023, # Credit Suisse
         }
 
     def compute_features(self):

@@ -1,0 +1,17 @@
+Feature,Importance
+InterestCoverage,0.28378397
+ROA,0.26002735
+Volatility_1Y,0.13310564
+ROA_Lag1,0.12683831
+Return_1Y,0.059173092
+EBITDAMargin,0.03748201
+NetMargin,0.031405415
+OCF_to_Debt,0.019967139
+DebtToAssets,0.018071502
+Z_Score,0.012079939
+O_Score,0.0104116285
+MarketCap_to_Assets,0.0048185755
+DebtToEquity,0.0017243273
+CurrentRatio,0.0011110548
+DE_Lag1,0.0
+Slope_Leverage,0.0
