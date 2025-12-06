@@ -1,0 +1,19 @@
+Forensic Audit Report - Grade: A
+==================================================
+[Data] [PASS] Company count verified: 106 (>=100) (Risk: Low)
+[Data] [FAIL] Low data depth. Avg years: 4.0 (Risk: Medium)
+[Data] [PASS] No missing values in TotalAssets (Risk: Low)
+[Data] [PASS] No missing values in TotalDebt (Risk: Low)
+[Data] [PASS] No missing values in NetIncome (Risk: Low)
+[Data] [PASS] No missing values in MarketCap (Risk: Low)
+[Data] [PASS] No missing values in default_within_1y (Risk: Low)
+[Data] [PASS] No negative Assets (Risk: Low)
+[Data] [PASS] No duplicate keys (Risk: Low)
+[Data] [PASS] DebtToEquity formula verification passed (Risk: Low)
+[Data] [PASS] Z_Score calculation matches source code logic (Risk: Low)
+[Data] [INFO] Z_Score uses Equity proxy for Working Capital (Methodology Deviation) (Risk: Low)
+[Model] [INFO] Train AUC (Logistic): nan (Risk: Low)
+[Model] [INFO] Test AUC (Logistic): 0.9961 (Risk: Low)
+[Model] [INFO] PD Range: 0.0011 - 0.9903 (Risk: Low)
+--------------------------------------------------
+Scores: {'Data_Quality': 90, 'Model_Integrity': 100, 'Statistical_Validity': 100, 'Documentation': 100}

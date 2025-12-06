@@ -1,0 +1,118 @@
+Ticker,Company,Sector,Region,Manual_Rating,Default_Event
+AAPL,Apple Inc.,Technology,US,AA+,0
+MSFT,Microsoft,Technology,US,AAA,0
+GOOGL,Alphabet,Technology,US,AA+,0
+AMZN,Amazon,Technology,US,AA,0
+NVDA,Nvidia,Technology,US,A,0
+META,Meta Platforms,Technology,US,A+,0
+TSLA,Tesla,Auto,US,BBB,0
+ORCL,Oracle,Technology,US,BBB+,0
+CSCO,Cisco,Technology,US,AA-,0
+INTC,Intel,Technology,US,A-,0
+IBM,IBM,Technology,US,A-,0
+ADBE,Adobe,Technology,US,A+,0
+CRM,Salesforce,Technology,US,A+,0
+AMD,AMD,Technology,US,A-,0
+QCOM,Qualcomm,Technology,US,A,0
+WMT,Walmart,Retail,US,AA,0
+TGT,Target,Retail,US,A,0
+COST,Costco,Retail,US,A+,0
+M,Macy's,Retail,US,BB,0
+KSS,Kohl's,Retail,US,BB-,0
+GPS,Gap,Retail,US,BB,0
+NKE,Nike,Consumer,US,AA-,0
+KO,Coca-Cola,Consumer,US,A+,0
+PEP,PepsiCo,Consumer,US,A+,0
+PG,P&G,Consumer,US,AA-,0
+XOM,Exxon Mobil,Energy,US,AA-,0
+CVX,Chevron,Energy,US,AA-,0
+BA,Boeing,Industrial,US,BBB-,0
+GE,General Electric,Industrial,US,BBB,0
+F,Ford,Auto,US,BB+,0
+GM,General Motors,Auto,US,BBB,0
+AMC,AMC Entertainment,Consumer,US,CCC,1
+GME,GameStop,Retail,US,B-,0
+CVNA,Carvana,Auto,US,CCC,0
+PTON,Peloton,Consumer,US,CCC+,0
+BBBY,Bed Bath & Beyond,Retail,US,D,1
+SVB,Silicon Valley Bank,Financial,US,D,1
+FRC,First Republic,Financial,US,D,1
+SBNY,Signature Bank,Financial,US,D,1
+RAD,Rite Aid,Retail,US,D,1
+WEN,Wendy's,Consumer,US,B+,0
+RELIANCE.NS,Reliance Industries,Energy,IN,AAA,0
+TCS.NS,TCS,Technology,IN,AAA,0
+HDFCBANK.NS,HDFC Bank,Financial,IN,AAA,0
+INFY.NS,Infosys,Technology,IN,AAA,0
+ICICIBANK.NS,ICICI Bank,Financial,IN,AAA,0
+HINDUNILVR.NS,HUL,Consumer,IN,AAA,0
+ITC.NS,ITC,Consumer,IN,AAA,0
+SBIN.NS,SBI,Financial,IN,AAA,0
+BHARTIARTL.NS,Bharti Airtel,Telecom,IN,AA+,0
+LICI.NS,LIC,Financial,IN,AAA,0
+LT.NS,L&T,Construction,IN,AAA,0
+TATAMOTORS.NS,Tata Motors,Auto,IN,AA,0
+SUNPHARMA.NS,Sun Pharma,Healthcare,IN,AA+,0
+MARUTI.NS,Maruti Suzuki,Auto,IN,AAA,0
+ULTRACEMCO.NS,UltraTech Cement,Materials,IN,AAA,0
+VEDL.NS,Vedanta,Materials,IN,AA-,0
+PNB.NS,PNB,Financial,IN,AA+,0
+IDFCFIRSTB.NS,IDFC First Bank,Financial,IN,AA,0
+YESBANK.NS,Yes Bank,Financial,IN,BBB,0
+IDEA.NS,Vodafone Idea,Telecom,IN,B-,1
+SUZLON.NS,Suzlon Energy,Energy,IN,B+,0
+JPPOWER.NS,Jaiprakash Power,Energy,IN,B,1
+RPOWER.NS,Reliance Power,Energy,IN,C,1
+RCOM.NS,Reliance Comm,Telecom,IN,D,1
+DHFL.NS,DHFL,Financial,IN,D,1
+IBULHSGFIN.NS,Indiabulls Housing,Financial,IN,A+,0
+JPM,JPMorgan,Financial,US,A-,0
+V,Visa,Financial,US,AA-,0
+MA,Mastercard,Financial,US,AA-,0
+DIS,Disney,Media,US,A-,0
+NFLX,Netflix,Media,US,BBB+,0
+NIO,NIO,Auto,CN,B+,0
+BABA,Alibaba,Technology,CN,A+,0
+BIDU,Baidu,Technology,CN,A,0
+SONY,Sony,Consumer,JP,A,0
+TM,Toyota,Auto,JP,A+,0
+HMC,Honda,Auto,JP,A-,0
+SHEL,Shell,Energy,UK,AA-,0
+BP,BP,Energy,UK,A-,0
+DEO,Diageo,Consumer,UK,A,0
+UL,Unilever,Consumer,UK,A+,0
+NVS,Novartis,Healthcare,CH,AA,0
+AZN,AstraZeneca,Healthcare,UK,A,0
+SAP,SAP,Technology,DE,A,0
+SIEGY,Siemens,Industrial,DE,A+,0
+BUD,Anheuser-Busch,Consumer,BE,BBB+,0
+AAL,American Airlines,Travel,US,B-,0
+UAL,United Airlines,Travel,US,B+,0
+CCL,Carnival Corp,Travel,US,B,0
+RCL,Royal Caribbean,Travel,US,B+,0
+NCLH,Norwegian Cruise,Travel,US,B-,0
+MSTR,MicroStrategy,Tech,US,B-,0
+COIN,Coinbase,Financial,US,BB-,0
+ABBV,AbbVie,Healthcare,US,A-,0
+PFE,Pfizer,Healthcare,US,A+,0
+JNJ,Johnson & Johnson,Healthcare,US,AAA,0
+LLY,Eli Lilly,Healthcare,US,A+,0
+MRK,Merck,Healthcare,US,A,0
+BMY,Bristol-Myers,Healthcare,US,A+,0
+AMGN,Amgen,Healthcare,US,A-,0
+GILD,Gilead,Healthcare,US,A-,0
+T,AT&T,Telecom,US,BBB,0
+VZ,Verizon,Telecom,US,BBB+,0
+TMUS,T-Mobile,Telecom,US,BBB-,0
+CMCSA,Comcast,Media,US,A-,0
+CHTR,Charter,Media,US,BB+,0
+ADANIENT.NS,Adani Enterprises,Diverse,IN,A,0
+ADANIGREEN.NS,Adani Green,Energy,IN,A-,0
+ADANIPORTS.NS,Adani Ports,Infrastructure,IN,AA,0
+WIPRO.NS,Wipro,Technology,IN,A-,0
+TITAN.NS,Titan,Consumer,IN,AA+,0
+ASIANPAINT.NS,Asian Paints,Consumer,IN,AAA,0
+AXISBANK.NS,Axis Bank,Financial,IN,AA+,0
+BAJFINANCE.NS,Bajaj Finance,Financial,IN,AAA,0
+DMART.NS,Avenue Supermarts,Retail,IN,AA+,0
+ZOMATO.NS,Zomato,Tech,IN,AA-,0
